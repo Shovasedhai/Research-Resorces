@@ -1,4 +1,4 @@
-# Research-Resorces
-+nepalindata.com
-+data.opennepal.net
-+nepalwastemap.org
+## Research-Resorces
+*nepalindata.com
+*data.opennepal.net
+*nepalwastemap.org
